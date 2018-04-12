@@ -872,3 +872,5 @@ our best to limit these hyperactive periods to one or two times a year.
 [Now Discover Your Strengths](https://www.amazon.com/Discover-Your-Strengths-Marcus-Buckingham/dp/0743201140/ref=sr_1_1?ie=UTF8&qid=1513878430&sr=8-1&keywords=Now+Discover+Your+Strengths)
 
 [The Personal MBA](https://www.amazon.com/Personal-MBA-Master-Art-Business/dp/1591845572/ref=sr_1_1?s=books&ie=UTF8&qid=1513878441&sr=1-1&keywords=The+Personal+MBA)
+
+
