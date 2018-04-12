@@ -288,10 +288,10 @@ You can think of the MTI as a dashboard that displays the progress of every issu
 > | Milestone | Issue  |   PR   | Description                              | Progress |
 > | :-------: | :----: | :----: | :--------------------------------------- | :------: |
 > |    🏁     | #12650 | #12666 | Empty Interactions Panel UI Refactor     |    ✅     |
-> |    🏁     | #12675 | #12685 | AnimationList Component                  |    🔄    |
-> |    🏁     | #12655 | #12746 | Convert ActionListConfig to InteractionStep |    📝    |
-> |    🚀     | #12653 | #12784 | Create InteractionConfiguration Component |    🚫    |
-> |    🚀     | #12686 |  ???   | Create all Timed InteractionConfiguration items: Mouse Tap, Mouse Hover, Scroll Into View, Page Load, Page Scrolled |    ⬜️    |
+> |    🏁     | #12675 | #12685 | Animation List Component                  |    🔄    |
+> |    🏁     | #12655 | #12746 | Convert Action List Config to Interaction Step |    📝    |
+> |    🚀     | #12653 | #12784 | Create Interaction Configuration Component |    🚫    |
+> |    🚀     | #12686 |  ???   | Create all Timed Interaction Configuration items: Mouse Tap, Mouse Hover, Scroll Into View, Page Load, Page Scrolled |    ⬜️    |
 
 The above gives a PM (or, anyone concerned) a quick way to gauge the progress of a project. For instance, one can see the BETA milestone is about 75% complete, and since tasks are broken into roughly **1-5 day** increments, it is easy to tell if a milestone is going `off-track` (See: [Help! We are behind schedule!](#help-we-are-behind-schedule)). 
 
