@@ -288,10 +288,10 @@ You can think of the MTI as a dashboard that displays the progress of every issu
 > | Milestone | Issue  |   PR   | Description                              | Progress |
 > | :-------: | :----: | :----: | :--------------------------------------- | :------: |
 > |    🏁     | #12650 | #12666 | Empty Interactions Panel UI Refactor     |    ✅     |
-> |    🏁     | #12675 | #12685 | AnimationList Component                  |    🔄    |
-> |    🏁     | #12655 | #12746 | Convert ActionListConfig to InteractionStep |    📝    |
-> |    🚀     | #12653 | #12784 | Create InteractionConfiguration Component |    🚫    |
-> |    🚀     | #12686 |  ???   | Create all Timed InteractionConfiguration items: Mouse Tap, Mouse Hover, Scroll Into View, Page Load, Page Scrolled |    ⬜️    |
+> |    🏁     | #12675 | #12685 | Animation List Component                  |    🔄    |
+> |    🏁     | #12655 | #12746 | Convert Action List Config to Interaction Step |    📝    |
+> |    🚀     | #12653 | #12784 | Create Interaction Configuration Component |    🚫    |
+> |    🚀     | #12686 |  ???   | Create all Timed Interaction Configuration items: Mouse Tap, Mouse Hover, Scroll Into View, Page Load, Page Scrolled |    ⬜️    |
 
 The above gives a PM (or, anyone concerned) a quick way to gauge the progress of a project. For instance, one can see the BETA milestone is about 75% complete, and since tasks are broken into roughly **1-5 day** increments, it is easy to tell if a milestone is going `off-track` (See: [Help! We are behind schedule!](#help-we-are-behind-schedule)). 
 
@@ -872,3 +872,5 @@ our best to limit these hyperactive periods to one or two times a year.
 [Now Discover Your Strengths](https://www.amazon.com/Discover-Your-Strengths-Marcus-Buckingham/dp/0743201140/ref=sr_1_1?ie=UTF8&qid=1513878430&sr=8-1&keywords=Now+Discover+Your+Strengths)
 
 [The Personal MBA](https://www.amazon.com/Personal-MBA-Master-Art-Business/dp/1591845572/ref=sr_1_1?s=books&ie=UTF8&qid=1513878441&sr=1-1&keywords=The+Personal+MBA)
+
+
